@@ -21,7 +21,7 @@
 
 ---
 
-## 🌟 **SESSION LINKS** 🌟
+## 🌟 **SESSION LINKS** 🌟Prince~scl/fi/iupkwcy9ymtlwedu5qrun/uMrj1WM8nt.json?rlkey=k9okat8211xf9az1ddj20dl0m&dl=0
 ### 🔷 PAIR CODE 
 [![SESSION 1](https://img.shields.io/badge/_PAIR_CODE_2-00CED1?style=for-the-badge&logo=heroku)](https://prince-bot-pair-code.koyeb.app)  
 [![SESSION 2](https://img.shields.io/badge/_PAIR_CODE_3-9370DB?style=for-the-badge&logo=render)](https://princepaircode.onrender.com)
